@@ -119,7 +119,7 @@ I found some.
 
 **nostr** feels like a micro-blogging platform — similar to Twitter, Mastodon, Bluesky, Farcaster, Misskey, Firefish, Sharkey, Pleroma, Akkoma, and many others.
 
-Although unlike Twitter, which is centralized, **nostr** is a **decentralized** social-media networking platform — similar (in many ways) to the Fediverse (which includes Mastodon, Misskey, Firefish, Sharkey, Pleroma, Akkoma, and many others), Bluesky, Farcaster, and others..
+Although unlike Twitter, which is centralized, **nostr** is a **decentralized** social-media networking platform — similar (in many ways) to the Fediverse (which includes Mastodon, Misskey, Firefish, Sharkey, Pleroma, Akkoma, and many others), Bluesky, Farcaster, and others.
 
 **nostr** has nothing to do with Bitcoin or the (Bitcoin L2) Lightning Network.
 But there are a lot of Bitcoin and Lightning Network enthusiasts on **nostr**.
