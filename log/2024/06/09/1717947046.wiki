@@ -72,12 +72,14 @@ I did so:
 
 And then tapped the “//Create Account Now//” button, and was then taken to this screen:
 
-At this point, I had joined **nostr**.
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071727_primal.jpeg
+
+//At this point, I had joined **nostr**.//
 But there was another (optional) part of **primal**'s //on-boarding//.
 
 Here **primal** was giving me the option to //activate a wallet// or to //skip// it.
 
-I tapped the “//Acitivate Wallet//” button to see what was there, and was then taken to this screen:
+Out of curiousity, I tapped the “//Acitivate Wallet//” button to see what was there, and was then taken to this screen:
 
 It wanted a bunch of personal information from me —
 my first-name, my family-name, my e-mail address, my date-of-birth, and my country of residence.
