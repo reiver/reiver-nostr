@@ -53,14 +53,19 @@ After tapping the “//Next//” button, it then took me to this screen:
 ⁁ log/2024/06/09/1717947046/screenshot_20240609_071616_primal.jpeg
 
 Here I was was asked to pick some //interests//.
-So a picked some:
+
+(What I later realized is that, the **primal** nostr app used this informtion (the //interests// I picked) to auto-follow some people on **nostr**.
+That way I wouldn't have an empty home-food.)
+
+I picked some //interestes//:
 
 ⁁ log/2024/06/09/1717947046/screenshot_20240609_071650_primal.jpeg
 
-What I later realized is that, the **primal** nostr app used this informtion (the //interests// I picked) to auto-follow some people on **nostr**.
-That way I wouldn't have an empty home-food.
 
-I picked some //interests//, tapped the  “//Next//” button, and was then taken to this screen:
+And then I tapped the  “//Next//” button, and was then taken to this screen:
+
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071656_primal.jpeg
+
 Here, I was given a chance to change the //banner image// for my **nostr** account.
 I did so:
 
