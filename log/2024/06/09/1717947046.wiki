@@ -152,6 +152,10 @@ I found some.
 
 §§ First Thoughts
 
+My experience with **nostr**, so far, is via the **primal** nostr app.
+
+(When William Casarin releases an //android version// of his damus app, I will try that, too.)
+
 **nostr** feels like a micro-blogging platform — similar to Twitter, Mastodon, Bluesky, Farcaster, Misskey, Firefish, Sharkey, Pleroma, Akkoma, and many others.
 
 Although unlike Twitter, which is centralized, **nostr** is a **decentralized** social-media networking platform — similar (in many ways) to the Fediverse (which includes Mastodon, Misskey, Firefish, Sharkey, Pleroma, Akkoma, and many others), Bluesky, Farcaster, and others.
@@ -160,13 +164,9 @@ Although unlike Twitter, which is centralized, **nostr** is a **decentralized** 
 But there are a lot of Bitcoin and Lightning Network enthusiasts on **nostr**.
 I suspect that over time, as **nostr** attracts more and more people, that the type of people on **nostr** will become more varied.
 
-My experience with **nostr** is, so far, via the **primal** nostr app.
-
-(When William Casarin releases an //android version// of his damus app, I will try that, too.)
-
 I thought it was a good idea that the **primal** nostr app made it so that my home-feed wasn't empty.
 
-Although I do think it is probably a problem that this could cause certain accounts to amass a giant number of followers, while other accounts may not get many or even any.
+Although I do think it is probably a problem that this could cause certain accounts to amass a giant number of followers, while other accounts may not get many or even any followers — and //could// end up talking into the void.
 
 But, so far I have had a good experience on **nostr**.
 
