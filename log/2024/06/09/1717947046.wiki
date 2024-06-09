@@ -81,6 +81,9 @@ Here **primal** was giving me the option to //activate a wallet// or to //skip//
 
 Out of curiousity, I tapped the “//Acitivate Wallet//” button to see what was there, and was then taken to this screen:
 
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071749_primal.jpeg
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071755_primal.jpeg
+
 It wanted a bunch of personal information from me —
 my first-name, my family-name, my e-mail address, my date-of-birth, and my country of residence.
 (I realized later that this was all optional — and I didn't have to give this information to use **primal** or **nostr**.)
@@ -116,10 +119,14 @@ So, I //skipped it// by pressing the “//I'll do this later//” link.
 
 At that point I was out of the //on-boarding// part of the **primal** app, and seeing the home-feed of the **primal** nostr app:
 
+⁁ log/2024/06/09/1717947046/screenshot_20240609_091901_primal.jpeg
+
 What I thought was funny is that William Casarin was already in my **nostr** home-feed 🙂
 
 This is when I suspected that the **primal** nostr app had auto-followed a bunch of people (including William Casarin) because of the //interests// I chose during the on-boarding.
 And looking at who I was following on **nostr**, that suspicion turned out to be correct:
+
+⁁ log/2024/06/09/1717947046/screenshot_20240609_092019_primal.jpeg
 
 I wrote my first **nostr** post:
 
