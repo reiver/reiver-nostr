@@ -46,6 +46,8 @@ That took me to this screen:
 The **primal** nostr app prompted me to //add a photo//, write in my //display name//, and write a bit //about myself//.
 So I did:
 
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071610_primal.jpeg
+
 After tapping the “//Next//” button, it then took me to this screen:
 
 Here I was was asked to pick some //interests//.
