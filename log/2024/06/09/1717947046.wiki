@@ -32,10 +32,16 @@ William Casarin mentioned **primal** first, so that is what I tried.
 
 I searched for **primal** on the //play store//:
 
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071244.jpeg
+
 I installed and ran it (**primal**), and was greeted with this screen:
+
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071414_primal.jpeg
 
 I didn't have a **nostr** account yet, so I tapped the “//Create Account//” button.
 That took me to this screen:
+
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071421_primal.jpeg
 
 The **primal** nostr app prompted me to //add a photo//, write in my //display name//, and write a bit //about myself//.
 So I did:
