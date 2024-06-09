@@ -61,13 +61,14 @@ I picked some //interestes//:
 
 ⁁ log/2024/06/09/1717947046/screenshot_20240609_071650_primal.jpeg
 
-
 And then I tapped the  “//Next//” button, and was then taken to this screen:
 
 ⁁ log/2024/06/09/1717947046/screenshot_20240609_071656_primal.jpeg
 
 Here, I was given a chance to change the //banner image// for my **nostr** account.
 I did so:
+
+⁁ log/2024/06/09/1717947046/screenshot_20240609_071719_primal.jpeg
 
 And then tapped the “//Create Account Now//” button, and was then taken to this screen:
 
