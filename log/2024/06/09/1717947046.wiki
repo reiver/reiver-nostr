@@ -130,12 +130,20 @@ And looking at who I was following on **nostr**, that suspicion turned out to be
 
 I wrote my first **nostr** post:
 
+⁁ log/2024/06/09/1717947046/screenshot_20240609_072551_primal.jpeg
+
 And then, William Casarin followed me:
+
+⁁ log/2024/06/09/1717947046/screenshot_20240609_072244_primal.jpeg
 
 And tagged me in a public post:
 
+⁁ log/2024/06/09/1717947046/screenshot_20240609_073610_primal.jpeg
+
 Which seemed to cause a number of people to engage with me.
-William Casarin has a lot of followers on nostr.
+William Casarin has a lot of followers on nostr!
+
+⁁ log/2024/06/09/1717947046/screenshot_20240609_134640_primal.jpeg
 
 I also went ahead and //edited my profile// — adding a //username//, //display name//, //website//, and //about me// information:
 
