@@ -1,0 +1,23 @@
+wiki/1
+
+§ nostr
+
+⸺ by Charles Iliya Krempeaux
+
+**nostr** is a protocol for **decentralized social-media networking**.
+
+“//nostr//” is short for “**n**otes and **o**ther **s**tuff **t**ransmitted by **r**elays”.
+
+§§ Logs
+
+• [[nostr-logs]]
+
+§§ See Also
+
+• [[at-protocol]]
+• [[bluesky-network]]
+• [[farcaster]]
+• [[fediverse]]
+• [[finger-protocol]]
+• [[lens-protocol]]
+• [[socialfi]]
