@@ -145,7 +145,7 @@ William Casarin has a lot of followers on nostr!
 
 ⁁ log/2024/06/09/1717947046/screenshot_20240609_134640_primal.jpeg
 
-I also went ahead and //edited my profile// — adding a //username//, //display name//, //website//, and //about me// information:
+I also went ahead and //edited my profile// — adding a //username//, //display name//, //website//, and //about me// information.
 
 After that I looked to see if some (other) people I know were on **nostr**, so I could follow them.
 I found some.
@@ -164,4 +164,10 @@ My experience with **nostr** is, so far, via the **primal** nostr app.
 
 (When William Casarin releases an //android version// of his damus app, I will try that, too.)
 
-So far I have had a good experience on **nostr**.
+I thought it was a good idea that the **primal** nostr app made it so that my home-feed wasn't empty.
+
+Although I do think it is probably a problem that this could cause certain accounts to amass a giant number of followers, while other accounts may not get many or even any.
+
+But, so far I have had a good experience on **nostr**.
+
+And I like that with **nostr** there is //another// ***decentralized social-media networking** platform — in addition to the Fediverse, Bluesky, Farcaster, etc.
